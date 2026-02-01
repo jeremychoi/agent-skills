@@ -1,6 +1,6 @@
 ---
 name: superset-api
-description: Interact with Apache Superset REST API to manage dashboards, charts, datasets, databases, and execute SQL queries. Use when users need to programmatically work with Superset for: (1) Listing or managing dashboards and charts, (2) Creating or querying datasets, (3) Executing SQL queries via SQL Lab, (4) Managing database connections, (5) Retrieving chart data with filters and metrics, (6) Generating guest tokens for embedded dashboards. Requires a Superset host URL.
+description: "Interact with Apache Superset REST API to manage dashboards, charts, datasets, databases, and execute SQL queries. Use when users need to programmatically work with Superset for: (1) Listing or managing dashboards and charts, (2) Creating or querying datasets, (3) Executing SQL queries via SQL Lab, (4) Managing database connections, (5) Retrieving chart data with filters and metrics, (6) Generating guest tokens for embedded dashboards. Requires a Superset host URL."
 ---
 
 # Apache Superset API
